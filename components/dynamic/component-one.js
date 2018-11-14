@@ -1,0 +1,1 @@
+export default () => <div><p>Component One</p></div>;
